@@ -1,5 +1,6 @@
 .conteinerall{
     display: flex;
+    background-color: grey;
 }
 
 
@@ -9,26 +10,22 @@
     padding-top: 40px;
     margin: 200px;
    width: 35%; 
-   
+   background-color: grey;
 
    
 }
 .i{
+    margin-top: 10px;
     display: flex;
     margin: 81px;
     padding: 40px;
 }
-.twitter{
-   position:relative;
-   color: black;
+.i :hover{
+    position:relative;
+    color: green;
     transition: 1s;
 }
-.twitter :hover{
-    position: relative;
-    color: grey;
-    margin: 10px;
 
-}
 .fa{
     position: relative;
     background: rgba(0,0,0,0);
@@ -40,7 +37,7 @@
 
 .fa :hover{
     position: relative;
-    color: grey;
+    color: green;
   transform: rotate(360deg);
     transition: 1s;
 }
@@ -70,7 +67,7 @@
 }
 
 .conteiner3 a:hover {
-    color: grey;
+    color: green;
     left: '2px';
     font-size: 40px;
 
