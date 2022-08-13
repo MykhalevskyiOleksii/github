@@ -1,1 +1,58 @@
-# github
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2projet</title>
+    <link rel="stylesheet" href="style1.css">
+    <script src="https://kit.fontawesome.com/821fe6837f.js" crossorigin="anonymous"></script>
+   
+</head>
+<body>
+    <div class="conteinerall">
+         <div class="conteiner1">
+            <div class="fa">
+            <i class="fa-regular fa-file-code fa-5x"></i>
+            </div>
+            <h1>FirsName LastName</h1>
+              <p>City country</p>
+              <div class="i">
+                <div class="facebook">
+                <i class="fa-brands fa-facebook fa-2x"></i>
+            </div>
+            <div class="instagram">
+                <i class="fa-brands fa-instagram fa-2x"></i>
+                </div>
+<div class="twitter">
+                <i class="fa-brands fa-twitter fa-2x"></i>
+            </div>
+              </div>
+        
+    </div>
+<div class="conteiner2">
+        <h2>About</h2>
+    
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+             Perferendis quas sint et nihil iusto eius nostrum sit error,
+              repellat optio quisquam! Magnam dolore iusto cumque.
+               Nostrum error iste neque maiores.</p>
+              <h2>Experience</h2> 
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis in maiores autem quidem.</p>
+
+<h2>Skills</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis in maiores autem quidem obcaecati excepturi! Cupiditate eaque itaque magni voluptatibus neque nobis est dolor? Atque sunt minus ipsa asperiores. At.</p>
+   <div class="conteiner3">
+    <a href="#">Document</a>
+    <a href="#">Document</a>
+    <a href="#">Document</a>
+    <a href="#">Document</a>    
+    <a href="#">Document</a>
+
+   </div>
+    </div>
+    </div>
+    
+    
+</body>
+</html>
